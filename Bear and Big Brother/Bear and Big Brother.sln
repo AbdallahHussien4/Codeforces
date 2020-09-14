@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bear and Big Brother", "Bear and Big Brother\Bear and Big Brother.vcxproj", "{61BDC73A-1452-4B2A-8CBA-BEF111565CE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61BDC73A-1452-4B2A-8CBA-BEF111565CE2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{61BDC73A-1452-4B2A-8CBA-BEF111565CE2}.Debug|Win32.Build.0 = Debug|Win32
+		{61BDC73A-1452-4B2A-8CBA-BEF111565CE2}.Release|Win32.ActiveCfg = Release|Win32
+		{61BDC73A-1452-4B2A-8CBA-BEF111565CE2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
